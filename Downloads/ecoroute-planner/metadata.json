@@ -1,0 +1,7 @@
+{
+  "name": "EcoRoute Planner",
+  "description": "Your Quickest Path to Green Transit. Compare travel modes, estimate time, and visualize carbon footprint savings to make eco-friendly travel decisions using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
